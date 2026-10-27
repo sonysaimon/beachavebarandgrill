@@ -1,0 +1,290 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Beach Ave Bar & Grill logo Beach Ave" [ref=e5] [cursor=pointer]:
+        - /url: index.html
+        - img "Beach Ave Bar & Grill logo" [ref=e6]
+        - generic [ref=e7]: Beach Ave
+      - navigation "Main" [ref=e8]:
+        - link "Menu" [ref=e9] [cursor=pointer]:
+          - /url: menu.html
+        - link "Happy Hour" [ref=e10] [cursor=pointer]:
+          - /url: index.html#happy-hour
+        - link "Visit" [ref=e11] [cursor=pointer]:
+          - /url: visit.html
+      - link "Call (604) 676-2337" [ref=e12] [cursor=pointer]:
+        - /url: tel:+16046762337
+  - main [ref=e13]:
+    - generic [ref=e14]:
+      - img "A spread of Beach Ave plates — burgers, wings, salads and fries on blue-checkered liners" [ref=e15]
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - paragraph [ref=e18]: English Bay · Downtown Vancouver waterfront
+          - heading "Sunsets served daily" [level=1] [ref=e19]
+          - paragraph [ref=e20]: ★ 4.5 on Google across 694 reviews · Happy hour Mon–Fri 3–5 · Weekend brunch 10–2
+          - generic [ref=e21]:
+            - link "Call to reserve" [ref=e22] [cursor=pointer]:
+              - /url: tel:+16046762337
+            - link "See the menu" [ref=e23] [cursor=pointer]:
+              - /url: menu.html
+        - generic [ref=e24]:
+          - paragraph [ref=e25]: Tonight at English Bay
+          - paragraph [ref=e26]: 6:22 pm sunset
+          - paragraph [ref=e28]: Best watched from our patio with a Beach Time Lager in hand. We're on the seawall, below the Burrard Street Bridge.
+    - region "Quick facts" [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - strong [ref=e32]: ★ 4.5
+          - text: 694 Google reviews
+        - generic [ref=e33]:
+          - strong [ref=e34]: "10"
+          - text: BC craft beers on tap
+        - generic [ref=e35]:
+          - strong [ref=e36]: 3–5
+          - text: happy hour, Mon–Fri
+        - generic [ref=e37]:
+          - strong [ref=e38]: 10–2
+          - text: brunch, Sat & Sun
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - paragraph [ref=e42]: What the regulars order
+        - heading "The hits" [level=2] [ref=e43]
+        - paragraph [ref=e44]: Straight off the menu, with the reviews to back them up.
+      - generic [ref=e45]:
+        - article [ref=e46]:
+          - img "The Beach Burger with fries on a blue-checkered liner" [ref=e47]
+          - generic [ref=e48]:
+            - heading "Beach Burger $22.95" [level=3] [ref=e49]:
+              - text: Beach Burger
+              - generic [ref=e50]: $22.95
+            - paragraph [ref=e51]: Double stacked CAB beef, cheddar, beach sauce, veggies, brioche. With fries.
+            - paragraph [ref=e52]: ★★★★★ “Best burger in town! I've lived here for 20 years, and I finally found it.”
+        - article [ref=e53]:
+          - img "Seafood Club sandwich stacked with crab, prawns and smoked salmon" [ref=e54]
+          - generic [ref=e55]:
+            - heading "Seafood Club $24.95" [level=3] [ref=e56]:
+              - text: Seafood Club
+              - generic [ref=e57]: $24.95
+            - paragraph [ref=e58]: Crab, prawns, smoked salmon, bacon, old bay mayo on sourdough. With fries.
+            - paragraph [ref=e59]: ★★★★★ “Probably one of the nicest things I've had in a while.” — Natalia
+        - article [ref=e60]:
+          - img "Fried chicken sandwich with slaw and fries" [ref=e61]
+          - generic [ref=e62]:
+            - heading "Fried Chicken Sandwich $23.95" [level=3] [ref=e63]:
+              - text: Fried Chicken Sandwich
+              - generic [ref=e64]: $23.95
+            - paragraph [ref=e65]: Crispy chicken breast, spicy cajun butter, pickles, honey slaw, brioche. With fries.
+            - paragraph [ref=e66]: ★★★★★ “The spicy fried chicken sandwich was excellent!”
+        - article [ref=e67]:
+          - img "Chicken 'n Waffles with berries, chantilly cream and maple syrup" [ref=e68]
+          - generic [ref=e69]:
+            - heading "Chicken 'n Waffles $20.50" [level=3] [ref=e70]:
+              - text: Chicken 'n Waffles
+              - generic [ref=e71]: $20.50
+            - paragraph [ref=e72]: Liège waffles, fried chicken, honey butter, chantilly cream, fresh berries, maple syrup.
+            - paragraph [ref=e73]: Weekend brunch headliner — Saturday & Sunday, 10 to 2.
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - paragraph [ref=e77]: Monday–Friday, 3–5pm
+        - heading "Happy hour" [level=2] [ref=e78]
+        - paragraph [ref=e79]: $5.50 pints, $7.50 wine, and snacks under ten bucks — right as the afternoon sun hits the patio.
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - heading "Drinks" [level=3] [ref=e82]
+          - generic [ref=e83]:
+            - generic [ref=e84]:
+              - text: Beach Time Lager
+              - generic [ref=e85]: 16oz tap
+            - generic [ref=e86]: $5.50
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - text: Brave Brewing Hazy IPA
+              - generic [ref=e89]: 16oz tap
+            - generic [ref=e90]: $5.50
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - text: Hester Creek Pinot Gris
+              - generic [ref=e93]: 6oz
+            - generic [ref=e94]: $7.50
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - text: Cono Sur Cabernet
+              - generic [ref=e97]: 6oz
+            - generic [ref=e98]: $7.50
+          - generic [ref=e99]:
+            - generic [ref=e100]:
+              - text: Cono Sur Rosé
+              - generic [ref=e101]: 6oz
+            - generic [ref=e102]: $7.50
+        - generic [ref=e103]:
+          - heading "Snacks" [level=3] [ref=e104]
+          - generic [ref=e105]:
+            - generic [ref=e106]:
+              - text: Happy Hour Hot Dog
+              - generic [ref=e107]: Tomatoes, pickles, red relish, mustard, pepperoncini, onions
+            - generic [ref=e108]: $7.50
+          - generic [ref=e109]:
+            - generic [ref=e110]:
+              - text: Happy Hour Veggie Dog
+              - generic [ref=e111]: Tomatoes, pickles, red relish, mustard, pepperoncini, onions
+            - generic [ref=e112]: $8.50
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - text: Happy Hour Guacamole
+              - generic [ref=e115]: In-house guacamole, tortilla chips
+            - generic [ref=e116]: $8.50
+          - generic [ref=e117]:
+            - generic [ref=e118]:
+              - text: Chopped Cheese Sliders
+              - generic [ref=e119]: CAB beef, american cheddar, pickles, beach sauce
+            - generic [ref=e120]: $9.50
+          - generic [ref=e121]:
+            - generic [ref=e122]:
+              - text: Pulled Pork Sliders
+              - generic [ref=e123]: BBQ pulled pork, chipotle mayo, guacamole, pickled onion
+            - generic [ref=e124]: $9.50
+          - generic [ref=e125]:
+            - generic [ref=e126]:
+              - text: Avocado Tostada
+              - generic [ref=e127]: Corn tortilla, refried beans, avocado, red pepper pico, lettuce, feta
+            - generic [ref=e128]: $8.50
+    - generic [ref=e130]:
+      - generic [ref=e131]:
+        - paragraph [ref=e132]: Saturday & Sunday, 10am–2pm
+        - heading "Weekend brunch" [level=2] [ref=e133]
+        - paragraph [ref=e134]: Five kinds of eggs benny on brown butter hollandaise, chicken 'n waffles, breakfast burgers — and the bay to look at while you wait for your coffee to kick in.
+        - link "See the brunch menu" [ref=e135] [cursor=pointer]:
+          - /url: menu.html#brunch
+      - img "Lox and cream cheese eggs benedict with hollandaise" [ref=e136]
+    - generic [ref=e138]:
+      - img "Plates and a blue cocktail on the sunny Beach Ave patio" [ref=e140]
+      - generic [ref=e141]:
+        - paragraph [ref=e142]: Below the Burrard Street Bridge
+        - heading "Your neighbourhood hangout" [level=2] [ref=e143]
+        - paragraph [ref=e144]: We're on the seawall at the foot of Beach Avenue — great food, great patio, great people. Yacht watching from the rail, BC craft beer on every tap, the Canucks on when it matters, and a kitchen that takes burgers as seriously as the view.
+        - paragraph [ref=e145]: Walk in off the seawall, or call ahead and we'll hold you a table on the rail.
+        - link "Plan your visit" [ref=e146] [cursor=pointer]:
+          - /url: visit.html
+    - generic [ref=e148]:
+      - generic [ref=e149]:
+        - paragraph [ref=e150]: On the patio
+        - heading "Life on Beach Ave" [level=2] [ref=e151]
+      - generic [ref=e152]:
+        - figure "Craft taps under the bridge" [ref=e153]:
+          - img "Two craft beers on a patio table under the Burrard Bridge" [ref=e154]
+        - figure "Sangria, bay-side" [ref=e156]:
+          - img "A sangria held up against the water" [ref=e157]
+        - figure "Cod & chips" [ref=e159]:
+          - img "A fork breaking into crispy battered cod" [ref=e160]
+        - figure "Kale quinoa salad" [ref=e162]:
+          - img "Kale quinoa salad with berries and goat cheese" [ref=e163]
+    - generic [ref=e166]:
+      - generic [ref=e167]:
+        - paragraph [ref=e168]: From Google reviews
+        - heading "What people say" [level=2] [ref=e169]
+      - generic [ref=e170]:
+        - generic [ref=e171]: "4.5"
+        - generic [ref=e172]:
+          - text: ★★★★★
+          - paragraph [ref=e173]: 694 Google reviews · $20–30 per person
+      - generic [ref=e174]:
+        - generic [ref=e175]:
+          - generic [aria-hidden] [ref=e176]: ★★★★★
+          - blockquote [ref=e177]: “More than 5 stars for accommodating a party of 7 on a Saturday night. Great options for kids. Perfect view of the harbour and great beer — you must try the Dark Matter.”
+          - generic [ref=e178]:
+            - text: Serge
+            - generic [ref=e179]: Google review
+        - generic [ref=e180]:
+          - generic [aria-hidden] [ref=e181]: ★★★★★
+          - blockquote [ref=e182]: “Love coming here to catch the sunset! One of my favourite places to visit. The fries are to die for, the beer is so good, and the staff is the friendliest.”
+          - generic [ref=e183]:
+            - text: Google review
+            - generic [ref=e184]: via @beachavebar
+        - generic [ref=e185]:
+          - generic [aria-hidden] [ref=e186]: ★★★★★
+          - blockquote [ref=e187]: “Very friendly staff, excellent service, reasonably priced food and drinks.”
+          - generic [ref=e188]: Google review
+        - generic [ref=e189]:
+          - generic [aria-hidden] [ref=e190]: ★★★★★
+          - blockquote [ref=e191]: “We especially enjoyed the burgers, crispy fries, and the homemade lemonade.”
+          - generic [ref=e192]: Google review
+        - generic [ref=e193]:
+          - generic [aria-hidden] [ref=e194]: ★★★★★
+          - blockquote [ref=e195]: “The beach burger was sooo good — juicy, homemade, and a big portion.”
+          - generic [ref=e196]: Google review
+        - generic [ref=e197]:
+          - generic [aria-hidden] [ref=e198]: ★★★★★
+          - blockquote [ref=e199]: “I just tried the seafood club for the first time and it's probably one of the nicest things I've had in a while.”
+          - generic [ref=e200]:
+            - text: Natalia
+            - generic [ref=e201]: Google review
+    - generic [ref=e203]:
+      - generic [ref=e204]:
+        - paragraph [ref=e205]: Find us
+        - heading "On the seawall" [level=2] [ref=e206]
+        - generic [ref=e207]: "#1–1012 Beach Avenue Vancouver, BC V6E 1T7"
+        - table [ref=e208]:
+          - rowgroup [ref=e209]:
+            - row [ref=e210]:
+              - cell "Monday–Friday" [ref=e211]
+              - cell "11:30am – 10pm" [ref=e212]
+            - row [ref=e213]:
+              - cell "Happy hour (Mon–Fri)" [ref=e214]
+              - cell "3pm – 5pm" [ref=e215]
+            - row [ref=e216]:
+              - cell "Saturday–Sunday" [ref=e217]
+              - cell "10am – 10pm" [ref=e218]
+            - row [ref=e219]:
+              - cell "Brunch (Sat–Sun)" [ref=e220]
+              - cell "10am – 2pm" [ref=e221]
+        - generic [ref=e222]:
+          - link "Call (604) 676-2337" [ref=e223] [cursor=pointer]:
+            - /url: tel:+16046762337
+          - link "Hours, parking & FAQ" [ref=e224] [cursor=pointer]:
+            - /url: visit.html
+      - iframe [ref=e226]
+  - contentinfo [ref=e227]:
+    - generic [ref=e228]:
+      - generic [ref=e229]:
+        - generic [ref=e230]:
+          - heading "Visit" [level=4] [ref=e231]
+          - list [ref=e232]:
+            - listitem [ref=e233]: "#1–1012 Beach Avenue, Vancouver"
+            - listitem [ref=e234]:
+              - link "(604) 676-2337" [ref=e235] [cursor=pointer]:
+                - /url: tel:+16046762337
+            - listitem [ref=e236]:
+              - link "info@beachavebarandgrill.com" [ref=e237] [cursor=pointer]:
+                - /url: mailto:info@beachavebarandgrill.com
+        - generic [ref=e238]:
+          - heading "Menus" [level=4] [ref=e239]
+          - list [ref=e240]:
+            - listitem [ref=e241]:
+              - link "Food" [ref=e242] [cursor=pointer]:
+                - /url: menu.html#food
+            - listitem [ref=e243]:
+              - link "Brunch" [ref=e244] [cursor=pointer]:
+                - /url: menu.html#brunch
+            - listitem [ref=e245]:
+              - link "Drinks" [ref=e246] [cursor=pointer]:
+                - /url: menu.html#drinks
+            - listitem [ref=e247]:
+              - link "Happy hour" [ref=e248] [cursor=pointer]:
+                - /url: menu.html#happyhour
+        - generic [ref=e249]:
+          - heading "Follow" [level=4] [ref=e250]
+          - list [ref=e251]:
+            - listitem [ref=e252]:
+              - link "Instagram @beachavebar" [ref=e253] [cursor=pointer]:
+                - /url: https://www.instagram.com/beachavebar/
+            - listitem [ref=e254]:
+              - link "Facebook" [ref=e255] [cursor=pointer]:
+                - /url: https://www.facebook.com/beachavebar
+      - generic [ref=e256]:
+        - generic [ref=e257]: © 2026 Beach Ave Bar & Grill. Prices do not include tax.
+        - generic [ref=e258]:
+          - text: Site by
+          - link "Sony Saimon" [ref=e259] [cursor=pointer]:
+            - /url: https://web.soichirosaimon.com
